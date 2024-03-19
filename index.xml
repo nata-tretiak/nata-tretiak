@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Я подумала про це в ліжку</title>
-    <link>https://nata-tretiak.github.io/</link>
+    <link>https://thinkaboutitinbed.com/</link>
     <description>Recent content on Я подумала про це в ліжку</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>uk</language>
     <lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nata-tretiak.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thinkaboutitinbed.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Що таке семантичне перенасичення: чому слова втрачають сенс, і до чого тут Шекспір, бізони та заїкання</title>
-      <link>https://nata-tretiak.github.io/semantic-satiation/</link>
+      <link>https://thinkaboutitinbed.com/semantic-satiation/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://nata-tretiak.github.io/semantic-satiation/</guid>
+      <guid>https://thinkaboutitinbed.com/semantic-satiation/</guid>
       <description>КВІТКА КВІТКА КВІТКА КВІТКА КВІТКА КВІТКА КВІТКА КВІТКА КВІТКА КВІТКА КВІТКА КВІТКА КВІТКА КВІТКА КВІТКА КВІТКА КВІТКА&#xA;Що відчуваєте? (прочитавши без пауз і пропусків)&#xA;Чи бувало у вас таке, що ви довго повторюєте одне й те ж саме слово, і в якийсь момент воно ніби розсипається, втрачає сенс?&#xA;💭 Ви думаєте: дивне слово&amp;hellip;&#xA;💭 Перевіряєте: а чи точно воно так пишеться?&#xA;💭 Дивуєтеся: це ж просто незрозумілий набір букв! У мене таке бувало і не раз:).</description>
     </item>
     <item>
       <title></title>
-      <link>https://nata-tretiak.github.io/about/</link>
+      <link>https://thinkaboutitinbed.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nata-tretiak.github.io/about/</guid>
+      <guid>https://thinkaboutitinbed.com/about/</guid>
       <description>About Me Huabing Zhao is a software architect, an Istio Member and an ONAP PTL. He has a solid experience in the information and telecommunication technology industry for more than 17 years.&#xA;Throughout his career, he has built a number of large-scale, cross-country software systems, most of them are still running in production.&#xA;He loves open source and has been contributing to various open source projects, he is a member of Istio, previous PTL of ONAP, the author of the Hugo clean-white theme and the open source project Aeraki Mesh.</description>
     </item>
     <item>
       <title></title>
-      <link>https://nata-tretiak.github.io/notes/</link>
+      <link>https://thinkaboutitinbed.com/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nata-tretiak.github.io/notes/</guid>
+      <guid>https://thinkaboutitinbed.com/notes/</guid>
       <description>Go 语言学习笔记 Envoy 学习笔记 </description>
     </item>
     <item>
       <title></title>
-      <link>https://nata-tretiak.github.io/search/placeholder/</link>
+      <link>https://thinkaboutitinbed.com/search/placeholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nata-tretiak.github.io/search/placeholder/</guid>
+      <guid>https://thinkaboutitinbed.com/search/placeholder/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts Archive</title>
-      <link>https://nata-tretiak.github.io/archive/</link>
+      <link>https://thinkaboutitinbed.com/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nata-tretiak.github.io/archive/</guid>
+      <guid>https://thinkaboutitinbed.com/archive/</guid>
       <description></description>
     </item>
   </channel>
