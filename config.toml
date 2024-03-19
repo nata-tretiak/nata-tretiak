@@ -6,7 +6,7 @@ languageCode = "uk"
 disqusShortname = ""
 googleAnalytics = ""
 preserveTaxonomyNames = true
-paginate = 5 #frontpage pagination
+paginate = 20 #frontpage pagination
 hasCJKLanguage = false
 
 [outputs]
@@ -14,7 +14,7 @@ hasCJKLanguage = false
 home = ["HTML", "RSS"]
 
 [params]
-  header_image = "img/404-bg.jpg"
+  header_image = "/img/404-bg.jpg"
   SEOTitle = "Я подумала про це в ліжку"
   description = ""
   keyword = "література"
@@ -31,7 +31,7 @@ home = ["HTML", "RSS"]
   leancloud_app_key = ""
 
   # algolia site search
-  algolia_search = true
+  algolia_search = false
   algolia_appId = ""
   algolia_indexName = ""
   algolia_apiKey = ""
@@ -41,7 +41,7 @@ home = ["HTML", "RSS"]
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
   sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-  featured_tags = true 
+  featured_tags = false
   featured_condition_size = 1 
 
   # Baidu Analytics
@@ -57,7 +57,7 @@ home = ["HTML", "RSS"]
   twikoo_env_id = ""
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = true 
+  reward = false
   # reward_guide = "如果这篇文章对你有用,请随意打赏" 
 
   friends = true
