@@ -1,4 +1,4 @@
-baseURL = 'https://nata-tretiak.github.io'
+baseURL = 'https://thinkaboutitinbed.com'
 languageCode = 'uk'
 title = 'Я подумала про це в ліжку'
 theme = "hugo-theme-cleanwhite"
