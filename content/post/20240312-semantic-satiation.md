@@ -29,7 +29,7 @@ draft: false
 
 Явище, яке описує, чому так відбувається називається:  ➡️ Семантичне перенасичення.
 
-YOUTUBE_VIDEO_HERE
+{{< youtube ymfC_iji6Z0>}}
 
 Улюблений іронічний Urban Dictionary дає визначення так: When you say a word so much it starts to sound fu**ing weird.
 
