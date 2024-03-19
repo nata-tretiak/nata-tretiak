@@ -2,7 +2,7 @@
 layout:     post 
 title:      "Що таке семантичне перенасичення: чому слова втрачають сенс, і до чого тут Шекспір, бізони та заїкання"
 subtitle:   ""
-date:       2024-03-12
+date:       2024-03-13
 author:     "Ната Третяк"
 URL: "semantic-satiation"
 image:      "img/semantic-cover.png"
