@@ -1,13 +1,13 @@
-baseurl = "https://nata-tretiak.github.io"
+baseurl = "https://thinkaboutitinbed.com"
 title = "Я подумала про це в ліжку"
 theme = "hugo-theme-cleanwhite"
-languageCode = "ua"
+languageCode = "uk"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
-hasCJKLanguage = true
+hasCJKLanguage = false
 
 [outputs]
 # home = ["HTML", "RSS", "Algolia"]
