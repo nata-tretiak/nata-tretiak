@@ -1,4 +1,4 @@
-baseURL = 'https://thinkaboutitinbed.com'
+baseURL = 'https://thinkinbed.com'
 languageCode = 'uk'
 title = 'Я подумала про це в ліжку'
 theme = "hugo-theme-cleanwhite"
